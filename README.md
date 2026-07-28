@@ -3,7 +3,7 @@
 <h3 align="center">
 Full Stack MERN Developer | AI & Machine Learning Enthusiast
 </h3>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Muhammad%20Zain&fontSize=45&animation=fadeIn"/>
 ---
 
 ## 🚀 About Me
