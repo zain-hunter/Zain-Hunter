@@ -1,49 +1,117 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
+<!-- ================= HEADER ================= -->
 
-<h3 align="center">
-Full Stack MERN Developer | AI & Machine Learning Enthusiast
-</h3>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Muhammad%20Zain&fontSize=45&animation=fadeIn"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,14,24,25,30&text=Muhammad%20Zain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20|%20Data%20Analytics%20|%20AI%20Enthusiast&descAlignY=60&descSize=20"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+with+Python+%7C+Excel+%7C+Power+BI;Always+Learning.+Always+Building."/>
+</p>
+
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 💻 Learning Full Stack MERN Development
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌱 Currently building real-world MERN projects
-- 📚 Passionate about Web Development & AI
+<table>
+<tr>
+
+<td width="60%">
+
+### 🚀 Who Am I?
+
+- 💻 Full Stack MERN Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 📊 Data Analytics with Python, Excel & Power BI
+- 🌱 Building Real-World Projects
+- 📚 Passionate about Technology
 - 🎯 Goal: Become an AI Engineer
 
----
+</td>
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/ef/d3/e6/efd3e68c5f1247dcb0cc744e2951caea.jpg" width="320">
-</p>
+<td width="40%">
 
----
-## 🛠 Languages and Tools
+<img src="https://i.pinimg.com/736x/ef/d3/e6/efd3e68c5f1247dcb0cc744e2951caea.jpg" width="300"/>
 
-<p>
+</td>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,python,cpp,git,github,vscode,postman" />
-
-</p>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+# 💙 Status
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zain-hunter&show_icons=true&theme=tokyonight" />
+![](https://img.shields.io/badge/currently-learning-00BFFF?style=for-the-badge)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-hunter&theme=tokyonight"/>
+![](https://img.shields.io/badge/working_on-MERN_Stack-1E90FF?style=for-the-badge)
+
+![](https://img.shields.io/badge/exploring-Artificial_Intelligence-4169E1?style=for-the-badge)
+
+![](https://img.shields.io/badge/learning-Machine_Learning-0A84FF?style=for-the-badge)
 
 </p>
 
 ---
 
-## 💻 Current Projects
+# 💻 Tech Stack
+
+### 🌐 MERN Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind"/>
+
+</p>
+
+### 📊 Data Analytics
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+### 🛠 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cpp"/>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zain-hunter&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=zain-hunter&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-hunter&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Current Projects
 
 - 🌍 Tourism Website
 - ⚛️ React Learning Projects
@@ -52,39 +120,22 @@ Full Stack MERN Developer | AI & Machine Learning Enthusiast
 
 ---
 
-## 📫 Connect With Me
+# 🌐 Connect With Me
 
-LinkedIn https://www.linkedin.com/in/m-zain--/
+<p align="center">
 
-Portfolio (Coming Soon...)
+<a href="https://www.linkedin.com/in/m-zain--/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-Email   zainiftikhar@168@gmail.com
+<a href="mailto:zainiftikhar@168@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
+</p>
 
-#![Learning](https://img.shields.io/badge/currently-learning-success?style=flat)
+---
 
-![Working On](https://img.shields.io/badge/working%20on-MERN%20Stack-blue?style=flat)
-
-![Exploring](https://img.shields.io/badge/exploring-Artificial%20Intelligence-purple?style=flat)
-
-![Editor](https://img.shields.io/badge/editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-![OS](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows)
-
-![Browser](https://img.shields.io/badge/browser-Chrome-4285F4?style=flat&logo=googlechrome)
-
-![Database](https://img.shields.io/badge/database-MongoDB-47A248?style=flat&logo=mongodb)
-
-![Backend](https://img.shields.io/badge/backend-Node.js-339933?style=flat&logo=node.js)
-
-![Frontend](https://img.shields.io/badge/frontend-React-61DAFB?style=flat&logo=react)
-
-![AI](https://img.shields.io/badge/learning-Machine%20Learning-FF6F00?style=flat)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,14,24,25,30"/>
+</p>
