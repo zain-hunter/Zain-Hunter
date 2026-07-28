@@ -15,7 +15,9 @@ Full Stack MERN Developer | AI & Machine Learning Enthusiast
 - 🎯 Goal: Become an AI Engineer
 
 ---
-
+<p align="right">
+  <img src="https://i.pinimg.com/736x/ef/d3/e6/efd3e68c5f1247dcb0cc744e2951caea.jpg" width="320">
+</p>
 ## 🛠 Languages and Tools
 
 <p>
