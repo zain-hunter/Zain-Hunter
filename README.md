@@ -75,3 +75,11 @@ Email   zainiftikhar@168@gmail.com
 ![Frontend](https://img.shields.io/badge/frontend-React-61DAFB?style=flat&logo=react)
 
 ![AI](https://img.shields.io/badge/learning-Machine%20Learning-FF6F00?style=flat)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
