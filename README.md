@@ -49,8 +49,15 @@ Full Stack MERN Developer | AI & Machine Learning Enthusiast
 
 ## 📫 Connect With Me
 
-LinkedIn (Add Link)
+LinkedIn https://www.linkedin.com/in/m-zain--/
 
-Portfolio (Coming Soon)
+Portfolio (Coming Soon...)
 
-Email
+Email   zainiftikhar@168@gmail.com
+
+
+## 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman,python,cpp" />
+</p>
