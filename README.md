@@ -56,8 +56,22 @@ Portfolio (Coming Soon...)
 Email   zainiftikhar@168@gmail.com
 
 
-## 💻 Languages
+#![Learning](https://img.shields.io/badge/currently-learning-success?style=flat)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman,python,cpp" />
-</p>
+![Working On](https://img.shields.io/badge/working%20on-MERN%20Stack-blue?style=flat)
+
+![Exploring](https://img.shields.io/badge/exploring-Artificial%20Intelligence-purple?style=flat)
+
+![Editor](https://img.shields.io/badge/editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+![OS](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows)
+
+![Browser](https://img.shields.io/badge/browser-Chrome-4285F4?style=flat&logo=googlechrome)
+
+![Database](https://img.shields.io/badge/database-MongoDB-47A248?style=flat&logo=mongodb)
+
+![Backend](https://img.shields.io/badge/backend-Node.js-339933?style=flat&logo=node.js)
+
+![Frontend](https://img.shields.io/badge/frontend-React-61DAFB?style=flat&logo=react)
+
+![AI](https://img.shields.io/badge/learning-Machine%20Learning-FF6F00?style=flat)
